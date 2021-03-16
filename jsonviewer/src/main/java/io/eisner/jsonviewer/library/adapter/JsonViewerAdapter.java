@@ -1,4 +1,4 @@
-package com.yuyh.jsonviewer.library.adapter;
+package io.eisner.jsonviewer.library.adapter;
 
 import androidx.recyclerview.widget.RecyclerView;
 import android.text.SpannableStringBuilder;
@@ -7,8 +7,8 @@ import android.text.style.ForegroundColorSpan;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.yuyh.jsonviewer.library.utils.Utils;
-import com.yuyh.jsonviewer.library.view.JsonItemView;
+import io.eisner.jsonviewer.library.utils.Utils;
+import io.eisner.jsonviewer.library.view.JsonItemView;
 
 import org.json.JSONArray;
 import org.json.JSONException;

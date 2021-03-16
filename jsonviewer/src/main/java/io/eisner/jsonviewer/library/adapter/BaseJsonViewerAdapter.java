@@ -1,4 +1,4 @@
-package com.yuyh.jsonviewer.library.adapter;
+package io.eisner.jsonviewer.library.adapter;
 
 import androidx.recyclerview.widget.RecyclerView;
 

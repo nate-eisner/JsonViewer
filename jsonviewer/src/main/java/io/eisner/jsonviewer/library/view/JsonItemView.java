@@ -1,4 +1,4 @@
-package com.yuyh.jsonviewer.library.view;
+package io.eisner.jsonviewer.library.view;
 
 import android.content.Context;
 import androidx.annotation.Nullable;
@@ -12,7 +12,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.yuyh.jsonviewer.library.R;
-import com.yuyh.jsonviewer.library.adapter.BaseJsonViewerAdapter;
+import io.eisner.jsonviewer.library.adapter.BaseJsonViewerAdapter;
 
 /**
  * Created by yuyuhang on 2017/11/29.

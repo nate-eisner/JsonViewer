@@ -1,4 +1,4 @@
-package com.yuyh.jsonviewer.library;
+package io.eisner.jsonviewer.library;
 
 import android.content.Context;
 import androidx.annotation.Nullable;
@@ -9,9 +9,9 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.yuyh.jsonviewer.library.adapter.BaseJsonViewerAdapter;
-import com.yuyh.jsonviewer.library.adapter.JsonViewerAdapter;
-import com.yuyh.jsonviewer.library.view.JsonItemView;
+import io.eisner.jsonviewer.library.adapter.BaseJsonViewerAdapter;
+import io.eisner.jsonviewer.library.adapter.JsonViewerAdapter;
+import io.eisner.jsonviewer.library.view.JsonItemView;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

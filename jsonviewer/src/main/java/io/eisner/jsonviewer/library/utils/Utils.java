@@ -1,4 +1,4 @@
-package com.yuyh.jsonviewer.library.utils;
+package io.eisner.jsonviewer.library.utils;
 
 import java.util.regex.Pattern;
 
